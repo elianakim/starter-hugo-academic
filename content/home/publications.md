@@ -41,7 +41,7 @@ subtitle = ""
   <span class="venue">arXiv 2021</span><br style="content: ' '; display: block; margin: 5px;">
   <a class="badge badge-light" href="https://arxiv.org/abs/2111.11053"><i class="far fa-file-alt"></i> Paper</a>
   <!-- <a class="badge badge-light" href="projects/attention"><i class="fa fa-home"></i> Website</a> -->
-</p> -->
+<!-- </p> --> 
 
 <!-- #### Conferences and Journals
 
