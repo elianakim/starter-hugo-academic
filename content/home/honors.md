@@ -41,10 +41,10 @@ in various activities as well as in grades. Awarded at the commencement ceremony
   <span class="award-description">In recognition of the outstanding engineering accomplishments. KAIST College of Engineering, Sep. 2021</span>
 </p>
 
-<p style="line-height:1.3">
+<!-- <p style="line-height:1.3">
   <span class="award"><b>Grand Prix Prize in Undergraduate Research Participation Program</b></span><br>
   <span class="award-description">DAPPER: Training-Free Domain Adaptation Performance Estimation in Mobile Sensing. KAIST, Aug. 2021</span>
-</p>
+</p> -->
 
 <p style="line-height:1.3">
   <span class="award"><b>National Science and Engineering Undergraduate Scholarship</b></span><br>
