@@ -39,6 +39,10 @@ td, th {
             <th></th>
          </tr>
          <tr>
+            <td><b>Sep. 2022</b> &nbsp; &nbsp; &nbsp; &nbsp;</td>
+            <td>:tulip: Paper accepted at NeurIPS 2022</td>
+         </tr>
+         <tr>
             <td><b>Jul. 2022</b> &nbsp; &nbsp; &nbsp; &nbsp;</td>
             <td>:trophy: Won the Students with Outstanding Questions Award of KAIST</td>
          </tr>

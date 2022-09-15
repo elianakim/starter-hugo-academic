@@ -24,25 +24,26 @@ subtitle = ""
   }
 </style>
 
-<!-- <h2 style="text-align: center; line-height:0.7"> Preprints </h3>
-<br> -->
+<h2 style="text-align: center; line-height:0.7"> Preprints </h3>
+<br>
 
-<!-- <p style="line-height:1.3">
-  <span class="paper"><a href="https://arxiv.org/abs/2208.05117"><b>Robust Continual Test-time Adaptation: Instance-aware BN and Prediction-balanced Memory</b></a></span><br>
-  <span class="authors">Taesik Gong, Jongheon Jeong, Taewon Kim, <b>Yewon Kim</b>, Jinwoo Shin, and Sung-Ju Lee</span><br>
-  <span class="venue">arXiv 2022</span><br style="content: ' '; display: block; margin: 5px;">
-  <a class="badge badge-light" href="https://arxiv.org/abs/2208.05117"><i class="far fa-file-alt"></i> Paper</a>
-  <!-- <a class="badge badge-light" href="projects/attention"><i class="fa fa-home"></i> Website</a> -->
-<!-- </p> --> 
-
-<!-- <p style="line-height:1.3">
+<p style="line-height:1.3">
   <span class="paper"><a href="https://arxiv.org/abs/2111.11053"><b>DAPPER: Performance Estimation of Domain Adaptation in Mobile Sensing</b></a></span><br>
   <span class="authors">Taesik Gong, <b>Yewon Kim</b>, Adiba Orzikulova, Yunxin Liu, Sung Ju Hwang, Jinwoo Shin, and Sung-Ju Lee</span><br>
   <span class="venue">arXiv 2021</span><br style="content: ' '; display: block; margin: 5px;">
   <a class="badge badge-light" href="https://arxiv.org/abs/2111.11053"><i class="far fa-file-alt"></i> Paper</a>
   <!-- <a class="badge badge-light" href="projects/attention"><i class="fa fa-home"></i> Website</a> -->
-<!-- </p> --> 
+</p> 
 
-<!-- #### Conferences and Journals
+<h2 style="text-align: center; line-height:0.7"> Conferences and Journals </h3>
+<br>
 
-#### Posters, Demos, Videos, and Workshop Papers -->
+<p style="line-height:1.3">
+  <span class="paper"><a href="https://arxiv.org/abs/2208.05117"><b>Robust Continual Test-time Adaptation: Instance-aware BN and Prediction-balanced Memory</b></a></span><br>
+  <span class="authors">Taesik Gong, Jongheon Jeong, Taewon Kim, <b>Yewon Kim</b>, Jinwoo Shin, and Sung-Ju Lee</span><br>
+  <span class="venue">NeurIPS 2022</span><br style="content: ' '; display: block; margin: 5px;">
+  <a class="badge badge-light" href="https://arxiv.org/abs/2208.05117"><i class="far fa-file-alt"></i> Paper</a>
+  <!-- <a class="badge badge-light" href="projects/attention"><i class="fa fa-home"></i> Website</a> -->
+</p> 
+
+<!-- #### Posters, Demos, Videos, and Workshop Papers -->
