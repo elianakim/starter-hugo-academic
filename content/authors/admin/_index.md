@@ -40,7 +40,7 @@ bio: My research interests include human-centered AI, human-AI interaction, and 
 social:    
   - icon: cv
     icon_pack: ai
-    link: uploads/yewon-kim.pdf
+    link: uploads/CV_YewonKim.pdf
   - icon: envelope
     icon_pack: fas
     name: email
