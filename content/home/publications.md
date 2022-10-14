@@ -39,11 +39,13 @@ subtitle = ""
 <br>
 
 <p style="line-height:1.3">
-  <span class="paper"><a href="https://arxiv.org/abs/2208.05117"><b>Robust Continual Test-time Adaptation: Instance-aware BN and Prediction-balanced Memory</b></a></span><br>
+  <span class="paper"><a href="https://arxiv.org/abs/2208.05117"><b>NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation</b></a></span><br>
   <span class="authors">Taesik Gong, Jongheon Jeong, Taewon Kim, <b>Yewon Kim</b>, Jinwoo Shin, and Sung-Ju Lee</span><br>
   <span class="venue">NeurIPS 2022</span><br style="content: ' '; display: block; margin: 5px;">
   <a class="badge badge-light" href="https://arxiv.org/abs/2208.05117"><i class="far fa-file-alt"></i> Paper</a>
-  <!-- <a class="badge badge-light" href="projects/attention"><i class="fa fa-home"></i> Website</a> -->
+  <a class="badge badge-light" href="https://nmsl.kaist.ac.kr/projects/note/"><i class="fa fa-home"></i> Website</a>
+  <a class="bacge badge-light" href="https://github.com/TaesikGong/NOTE"><i class="far fa-code"></i> Code</a>
 </p> 
+
 
 <!-- #### Posters, Demos, Videos, and Workshop Papers -->
