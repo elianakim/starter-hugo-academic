@@ -44,7 +44,7 @@ subtitle = ""
   <span class="venue">NeurIPS 2022</span><br style="content: ' '; display: block; margin: 5px;">
   <a class="badge badge-light" href="https://arxiv.org/abs/2208.05117"><i class="far fa-file-alt"></i> Paper</a>
   <a class="badge badge-light" href="https://nmsl.kaist.ac.kr/projects/note/"><i class="fa fa-home"></i> Website</a>
-  <a class="bacge badge-light" href="https://github.com/TaesikGong/NOTE"><i class="far fa-code"></i> Code</a>
+  <a class="bacge badge-light" href="https://github.com/TaesikGong/NOTE"><i class="fa fa-code"></i> Code</a>
 </p> 
 
 
